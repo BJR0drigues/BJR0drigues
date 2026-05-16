@@ -8,7 +8,7 @@
 ║                                                      ║
 ║   >_  DAEMON  //  Brayan J. Rodrigues                ║
 ║   ──────────────────────────────────────────────     ║
-║   loc    : Planaltina, GO — Brazil                   ║
+║   loc    : Planaltina, GO — Brasil                   ║
 ║   role   : Analista SME · Coord. EducaIA · Dev       ║
 ║   stack  : Python · JS · n8n · Docker · Linux        ║
 ║   status : ██████████████████░░  building...         ║
