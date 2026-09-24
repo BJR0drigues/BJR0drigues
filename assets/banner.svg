@@ -27,5 +27,5 @@
 
   <text x="500" y="120" text-anchor="middle" font-family="'JetBrains Mono','Courier New',monospace" font-weight="700" font-size="46" letter-spacing="1" fill="#ffffff"><tspan fill="#e53935">Brayan</tspan> J. Rodrigues<tspan fill="#e53935" dx="6">_<animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/></tspan></text>
 
-  <text x="500" y="150" text-anchor="middle" font-family="'Inter',Arial,sans-serif" font-size="15" fill="#9a9aa0">Dev · Freelance · do interior de Goiás pra onde precisar</text>
+  <text x="500" y="150" text-anchor="middle" font-family="'Inter',Arial,sans-serif" font-size="15" fill="#9a9aa0">Dev · Freelance · de Planaltina-GO pra onde precisar</text>
 </svg>
