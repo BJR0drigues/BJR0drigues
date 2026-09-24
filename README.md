@@ -31,7 +31,7 @@ $ whoami
 daemon  # Brayan J. Rodrigues — BJR0drigues
 
 $ cat /etc/profile
-Dev de automação e IA aplicada — do interior de Goiás.
+Dev de automação e IA aplicada — de Planaltina-GO.
 Coordenador do EducaIA (IA em 10+ escolas públicas).
 Analista na Secretaria Municipal de Educação de Planaltina-GO.
 Estudante de Sistemas de Informação.
