@@ -5,7 +5,7 @@
 <!-- Banner animado (onda vermelha) -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:b71c1c,100:e53935&height=210&section=header&text=Brayan%20J.%20Rodrigues&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=%2F%2F%20Dev%20%C2%B7%20Automa%C3%A7%C3%A3o%20%26%20IA%20Aplicada%20%C2%B7%20Freelance&descSize=16&descAlignY=60&descColor=f5f5f5" alt="Brayan J. Rodrigues" />
+<img width="100%" src="https://raw.githubusercontent.com/BJR0drigues/BJR0drigues/main/assets/banner.svg" alt="Brayan J. Rodrigues" />
 
 <!-- Texto digitando (animação) -->
 <a href="https://bjr0drigues.github.io">
@@ -19,7 +19,6 @@
 <a href="https://wa.me/5561995070165"><img src="https://img.shields.io/badge/WhatsApp-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=e53935&labelColor=0a0a0a" alt="WhatsApp" /></a>
 <a href="mailto:brayandejesusrodrigues0@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=e53935&labelColor=0a0a0a" alt="Email" /></a>
 <a href="https://instagram.com/daemon.bjr"><img src="https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=e53935&labelColor=0a0a0a" alt="Instagram" /></a>
-<img src="https://komarev.com/ghpvc/?username=BJR0drigues&label=views&color=e53935&style=for-the-badge" alt="views" />
 
 </div>
 
@@ -118,6 +117,5 @@ PING daemon (127.0.0.1): online. latency: baixa. disponível: sim.
 // construo coisas reais, do interior, que funcionam de verdade.
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e53935,50:b71c1c,100:8b0000&height=110&section=footer" alt="footer" />
 
 </div>
