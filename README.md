@@ -95,15 +95,6 @@ DISPONÍVEL PARA FREELANCE — automação · integrações · dados · IA aplic
 
 ---
 
-## `$ git log --stat`
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=BJR0drigues&theme=dark&background=0a0a0a&border=333333&stroke=e53935&ring=e53935&fire=ff5252&currStreakLabel=e53935&sideLabels=cccccc&dates=666666&hide_border=false" alt="streak" />
-
-</div>
-
----
 
 ## `$ ping -c 1 daemon`
 
