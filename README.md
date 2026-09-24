@@ -112,6 +112,7 @@ o que entrego:
 ```
 > portfolio   →  bjr0drigues.github.io
 > email       →  brayandejesusrodrigues0@gmail.com
+> whatsapp    →  wa.me/5561995070165  ← me chame pra conversar
 > instagram   →  @daemon.bjr
 > location    →  Planaltina, GO — Brazil
 
