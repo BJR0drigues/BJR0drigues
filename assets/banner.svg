@@ -23,9 +23,9 @@
   <path d="M0,190 C180,160 360,215 540,190 C720,165 860,210 1000,188 L1000,220 L0,220 Z" fill="url(#wave)" opacity="0.55"/>
   <path d="M0,205 C200,182 380,222 560,204 C740,186 880,218 1000,202 L1000,220 L0,220 Z" fill="url(#wave)"/>
 
-  <text x="500" y="66" text-anchor="middle" font-family="'JetBrains Mono','Courier New',monospace" font-size="15" letter-spacing="4" fill="#e53935">// AUTOMAÇÃO · INTEGRAÇÕES · IA APLICADA</text>
+  <text x="500" y="66" text-anchor="middle" font-family="'JetBrains Mono','Courier New',monospace" font-size="15" letter-spacing="4" fill="#e53935">// AI AUTOMATION · N8N + LLMS</text>
 
   <text x="500" y="120" text-anchor="middle" font-family="'JetBrains Mono','Courier New',monospace" font-weight="700" font-size="46" letter-spacing="1" fill="#ffffff"><tspan fill="#e53935">Brayan</tspan> J. Rodrigues<tspan fill="#e53935" dx="6">_<animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/></tspan></text>
 
-  <text x="500" y="150" text-anchor="middle" font-family="'Inter',Arial,sans-serif" font-size="15" fill="#9a9aa0">Dev · Freelance · de Planaltina-GO pra onde precisar</text>
+  <text x="500" y="150" text-anchor="middle" font-family="'Inter',Arial,sans-serif" font-size="15" fill="#9a9aa0">Automação com IA · n8n · Python — aberto a vagas remotas</text>
 </svg>
